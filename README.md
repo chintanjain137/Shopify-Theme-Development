@@ -10,4 +10,5 @@ Shopify-Theme Development
 
 
 ***** Refer this link to get the more accurate information about input settings into your theme *****
+https://shopify.dev/docs/storefronts/themes/architecture/settings/input-settings
 ```
